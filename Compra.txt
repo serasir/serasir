@@ -1,3 +1,3 @@
-Comida:
+Comida: Milanesa, Galletas, Frutas 
 
 Limpieza:
