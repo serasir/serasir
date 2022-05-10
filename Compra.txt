@@ -1,3 +1,4 @@
-Comida: Frutas, Banana
+Comida: Frutas, Banana, Calabaza
+
 
 Limpieza:
