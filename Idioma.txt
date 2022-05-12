@@ -1,4 +1,4 @@
-Ingles: She, He, I, We, You, They, It
+Ingles: 
 
 
-Español:
+Español: Ella, El, Yo, Nosotros, Aquellos, Eso
